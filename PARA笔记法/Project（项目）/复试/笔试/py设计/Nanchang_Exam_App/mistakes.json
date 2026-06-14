@@ -1,0 +1,23 @@
+{
+  "mistakes": {},
+  "score_history": [
+    0.0,
+    100.0,
+    100.0
+  ],
+  "theme": "matcha",
+  "srs_data": {
+    "5731": {
+      "efactor": 1.7,
+      "interval": 1,
+      "reps": 1,
+      "next_review": "2026-03-16"
+    },
+    "5188": {
+      "efactor": 2.5,
+      "interval": 1,
+      "reps": 1,
+      "next_review": "2026-03-07"
+    }
+  }
+}
