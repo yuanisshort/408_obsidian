@@ -1,0 +1,29 @@
+{
+  "frames": [
+    {
+      "url": "https://kimi.moonshot.cn/",
+      "displayName": "kimi",
+      "icon": "moon",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://www.sou.com/",
+      "displayName": "360搜索",
+      "icon": "search",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}

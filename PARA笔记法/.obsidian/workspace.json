@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "8410f1d9ed421b39",
+    "type": "split",
+    "children": [
+      {
+        "id": "1115b58e3dcff819",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d49389622628af23",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3bbe33c3fd65f404",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9c61e8cf0ae5a2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66234b3f4d55a485",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "e255e3ad280d2b4a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "80b95839a360fc40",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 219.5
+  },
+  "right": {
+    "id": "bff30509855570e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c06b0b596a84d001",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f1272fad0350721",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Area（领域）/408/Obsidian---408Note-main/1 数据结构/附件/01.3.4.1~3.4.4_特殊矩阵的压缩存储.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "01.3.4.1~3.4.4_特殊矩阵的压缩存储 的反向链接列表"
+            }
+          },
+          {
+            "id": "ead45ae9613e9356",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Area（领域）/408/Obsidian---408Note-main/1 数据结构/附件/01.3.4.1~3.4.4_特殊矩阵的压缩存储.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "01.3.4.1~3.4.4_特殊矩阵的压缩存储 的出链列表"
+            }
+          },
+          {
+            "id": "ab9bf1ca75bd6c9c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "6136ad907bbe2084",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Project（项目）/408复习计划/滚动复习.md"
+              },
+              "icon": "lucide-list",
+              "title": "滚动复习 的大纲"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 532.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "66234b3f4d55a485",
+  "lastOpenFiles": [
+    "Project（项目）/考研/408复习计划/复习策略/复习规划案例9-20240322.pdf",
+    "Project（项目）/考研/408复习计划/复习策略/复习规划案例8-20240321.pdf",
+    "Project（项目）/考研/408复习计划/复习策略/复习规划案例7-20240321.pdf",
+    "Project（项目）/考研/408复习计划/复习策略/复习规划案例6-20240320.pdf",
+    "Project（项目）/考研/408复习计划/复习策略/复习规划案例5-20240318.pdf",
+    "Project（项目）/考研/408复习计划/复习策略/复习规划案例4-20230318.pdf",
+    "Project（项目）/考研/408复习计划/复习策略/复习规划案例3-20240318.pdf",
+    "Project（项目）/考研/408复习计划/复习策略/复习规划案例2-20230317.pdf",
+    "Project（项目）/考研/408复习计划/复习策略/复习规划案例13-20240328.pdf",
+    "Project（项目）/考研/408复习计划/复习策略/复习规划案例12-20240327.pdf",
+    "Project（项目）/考研/408复习计划/复习策略/复习规划案例11-20240325.pdf",
+    "Project（项目）/考研/408复习计划/复习策略/基础阶段.md",
+    "Project（项目）/考研/408复习计划/复习策略/冲刺阶段.md",
+    "Project（项目）/考研/408复习计划/复习时间规划/复习时间规划2.md",
+    "Project（项目）/考研/408复习计划/复习时间规划/复习时间规划1.md",
+    "Project（项目）/考研/408复习计划/滚动复习.md",
+    "Project（项目）/考研/408复习计划/屏幕截图 2024-12-25 224006.png",
+    "Project（项目）/考研/408复习计划/复习误区.md",
+    "Project（项目）/考研/408复习计划/专业课408（150分）.md",
+    "Project（项目）/考研/总时间规划/Day Planners/Day Planner-20241201.md",
+    "Project（项目）/考研/总时间规划/Day Planners/Day Planner-20241120.md",
+    "Project（项目）/考研/总时间规划/学习时间安排.md",
+    "Project（项目）/考研/政治/政治.md",
+    "Project（项目）/考研/政治/抄材料.md",
+    "Project（项目）/考研/英语二/英二资料/英二资料.md",
+    "Project（项目）/考研/英语二/题型剖析.md",
+    "Project（项目）/考研/英语二/英语二.md",
+    "Project（项目）/考研/英语二/经验总结.md",
+    "Project（项目）/考研/英语二/复习规划.md",
+    "Project（项目）/考研/数二/强化阶段/强化高数.md",
+    "Project（项目）/考研/数二/强化阶段/强化阶段.md",
+    "Project（项目）/考研/数二/基础阶段/基础高数.md",
+    "Project（项目）/考研/数二/基础阶段/基础阶段.md",
+    "Project（项目）/考研/数二/基础阶段/基础线代.md",
+    "Project（项目）/考研/数二/冲刺阶段/数二冲刺.md",
+    "Project（项目）/考研/数二/数二.md",
+    "Project（项目）/考研/前期准备/考研时间表.md",
+    "1.jpg",
+    "Pasted image 20250603163120.png",
+    "v2-d4d08c86cddb69f942ed7338e505436f_1440w.jpg",
+    "Pasted image 20241213075033.png",
+    "Pasted image 20250214205458.png",
+    "Area（领域）/考研/408/CS-Xmind-Note-master/CS-Xmind-Note-master/操作系统/第二章 进程的描述与控制/第二章 进程的描述与控制.png",
+    "Area（领域）/考研/408/Obsidian---408Note-main/1 数据结构/图表/真题代码逻辑-2010-2.drawio.svg",
+    "Area（领域）/考研/408/Obsidian---408Note-main/1 数据结构/图表/真题代码逻辑-2009-2.drawio.svg",
+    "Area（领域）/考研/408/Obsidian---408Note-main/1 数据结构/图表/第4章 串-KMP算法求next数组.drawio.svg",
+    "Area（领域）/考研/408/Obsidian---408Note-main/2 计算机组成原理/计算机组成原理总结.canvas",
+    "Area（领域）/期末考试/未命名.canvas",
+    "Area（领域）/期末考试/仪器分析.canvas",
+    "Area（领域）/考研/408/Obsidian---408Note-main/3 操作系统/思维导图/零壹/进程控制块.canvas",
+    "Area（领域）/考研/408/Obsidian---408Note-main/3 操作系统/思维导图/零壹/未命名.canvas",
+    "Area（领域）/考研/408/Obsidian---408Note-main/4 计算机网络/思维导图/数据链路层.canvas",
+    "Area（领域）/考研/408/Obsidian---408Note-main/3 操作系统/思维导图/进程的同步与互斥.canvas",
+    "Area（领域）/考研/408/Obsidian---408Note-main/3 操作系统/思维导图/进程的调度.canvas",
+    "Area（领域）/考研/408/Obsidian---408Note-main/3 操作系统/思维导图/进程与线程.canvas",
+    "Area（领域）/考研/408/Obsidian---408Note-main/3 操作系统/思维导图/设备管理.canvas"
+  ]
+}
