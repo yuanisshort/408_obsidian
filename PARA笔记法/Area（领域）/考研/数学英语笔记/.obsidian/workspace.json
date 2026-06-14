@@ -1,0 +1,284 @@
+{
+  "main": {
+    "id": "9c649a129cd49f4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a96c5fb9c629a56f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f8b73bbbc562bb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_数学/02_线性代数/4. 第四章：线性方程组/Lecture 15：齐次线性方程组.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 15：齐次线性方程组"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "465b84ead89aedc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b32c6e78e362583c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9570b176e5062bdb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "014f75e2bb202f63",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "41780a592e392901",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 364
+  },
+  "right": {
+    "id": "2ec678cf7e211286",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a22ea0bd65ce3a2",
+        "type": "tabs",
+        "dimension": 62.89424860853432,
+        "children": [
+          {
+            "id": "1d5e877c87f2c56d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01_数学/02_线性代数/4. 第四章：线性方程组/Lecture 15：齐次线性方程组.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Lecture 15：齐次线性方程组 的大纲"
+            }
+          },
+          {
+            "id": "16fcb143c6e620fe",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "e833bf0615814356",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          }
+        ]
+      },
+      {
+        "id": "643ae1aa261f0f1f",
+        "type": "tabs",
+        "dimension": 37.105751391465674,
+        "children": [
+          {
+            "id": "84db9c06c5e79f75",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "俊",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "51787655e28d34eb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "02b701b92ede968b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "fb33a0c5721b0668",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03_专业/02_操作系统/5. 第五章：IO管理/知识/3 知识 - 磁盘管理.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "3 知识 - 磁盘管理 的出链列表"
+            }
+          },
+          {
+            "id": "d9af19663fdb47ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03_专业/01_数据结构/2. 代码/6. 图/图.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "图 的反向链接列表"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 408
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
+      "graph:查看关系图谱": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "oz-clear-unused-images:Clear Unused Images": false
+    }
+  },
+  "active": "7f8b73bbbc562bb1",
+  "lastOpenFiles": [
+    "01_数学/02_线性代数/1. 第一章：行列式/Lecture 2：行列式的定义与性质.md",
+    "01_数学/02_线性代数/1. 第一章：行列式/Lecture 1：课程引言.md",
+    "01_数学/01_高等数学/3. 第三章：微分中值定理与导数应用/Lecture 24：函数的单调性与曲线的凹凸性.md",
+    "01_数学/01_高等数学/3. 第三章：微分中值定理与导数应用/Lecture 21：微分中值定理.md",
+    "01_数学/01_高等数学/1. 第一章：函数、极限、连续/Lecture 5：函数极限的概念.md",
+    "01_数学/01_高等数学/1. 第一章：函数、极限、连续/Lecture 3：函数的性质.md",
+    "01_数学/01_高等数学/1. 第一章：函数、极限、连续/Lecture 2：函数的概念及常见函数.md",
+    "01_数学/01_高等数学/1. 第一章：函数、极限、连续/Lecture 1：课程大纲.md",
+    "01_数学/01_高等数学/2. 第二章：导数与微分/Lecture 20：函数的微分.md",
+    "01_数学/01_高等数学/2. 第二章：导数与微分/Lecture 18：高阶导数.md",
+    "01_数学/02_线性代数/2. 第二章：矩阵/Lecture 10：矩阵的秩.md",
+    "01_数学/02_线性代数/2. 第二章：矩阵/Lecture 9：等价矩阵.md",
+    "01_数学/02_线性代数/2. 第二章：矩阵/Lecture 8：矩阵方程.md",
+    "01_数学/02_线性代数/2. 第二章：矩阵/Lecture 7：初等变换与初等矩阵.md",
+    "01_数学/02_线性代数/2. 第二章：矩阵/Lecture 6：伴随矩阵.md",
+    "01_数学/02_线性代数/2. 第二章：矩阵/Lecture 5：矩阵的逆.md",
+    "01_数学/02_线性代数/2. 第二章：矩阵/Lecture 4：矩阵的定义及其基本运算.md",
+    "01_数学/02_线性代数/1. 第一章：行列式/Lecture 3：行列式的计算.md",
+    "01_数学/01_高等数学/1. 第一章：函数、极限、连续/Lecture 15：闭区间上连续函数的性质.md",
+    "01_数学/01_高等数学/1. 第一章：函数、极限、连续/Lecture 14：连续性的运算与性质.md",
+    "01_数学/01_高等数学/1. 第一章：函数、极限、连续/Lecture 13：间断点及其分类.md",
+    "01_数学/01_高等数学/1. 第一章：函数、极限、连续/Lecture 12：函数的连续性.md",
+    "01_数学/01_高等数学/1. 第一章：函数、极限、连续/Lecture 11：无穷小量阶的比较.md",
+    "01_数学/01_高等数学/1. 第一章：函数、极限、连续/Lecture 10：求极限.md",
+    "01_数学/01_高等数学/1. 第一章：函数、极限、连续/Lecture 9：极限的概念、性质与存在准则.md",
+    "01_数学/01_高等数学/1. 第一章：函数、极限、连续/Lecture 8：无穷小与无穷大.md",
+    "01_数学/00_其他/03_知识网络/1. 第一章：函数、极限、连续/Lecture 1：函数.excalidraw",
+    "00_附件/Pasted image 20231225142739.png",
+    "00_附件/Pasted image 20231222204211.png",
+    "00_附件/Drawing 2024-07-01 19.50.31.excalidraw.png",
+    "00_附件/Drawing 2024-06-29 19.34.16.excalidraw.png",
+    "00_附件/Pasted image 20250409111851.png",
+    "00_附件/Pasted image 20250409111403.png",
+    "00_附件/Pasted image 20241029201238.png",
+    "00_附件/Pasted image 20241029200031.png",
+    "00_附件/Pasted image 20241028010611.png",
+    "00_附件/Pasted image 20240701202326.png",
+    "01_数学/03_概率论/概率论讲义.pdf",
+    "04_复试/00_书籍/论文合集/ViT.pdf",
+    "04_复试/00_书籍/论文合集/BERT.pdf",
+    "04_复试/00_书籍/论文合集/应用/ResLSTM.pdf",
+    "04_复试/00_书籍/论文合集/应用/Learning Traffic as Images - A Deep Convolutional.pdf",
+    "04_复试/00_书籍/论文合集/应用/Improved Spatio-Temporal Residual Networks for.pdf",
+    "04_复试/00_书籍/论文合集/应用/GCN+CNN+SENet.pdf",
+    "04_复试/00_书籍/论文合集/应用/A Deep Learning ApproachCombined Spatio-Temporal Features for Short-TermForecast in Rail Transit.pdf",
+    "04_复试/00_书籍/论文合集/应用/注意力分数 -  Ahybrid deep learning based traffic flow prediction method and its.pdf",
+    "未命名.canvas",
+    "04_复试/02_人工智能/05_论文/未命名.canvas",
+    "03_专业/04_计算机网络/未命名.canvas",
+    "未命名 1.canvas",
+    "9. 考研相关/4. 计算机/2. 操作系统/0. 其他/初见/总纲.canvas",
+    "9. 考研相关/3. 数学/5. 公式/1. 常用求极限公式.canvas",
+    "9. 考研相关/4. 计算机/1. 数据结构/0. 其他/初见/DS - 2.canvas",
+    "9. 考研相关/4. 计算机/1. 数据结构/0. 其他/初见/DS - 3.canvas",
+    "9. 考研相关/4. 计算机/1. 数据结构/0. 其他/初见/DS - 5.canvas",
+    "9. 考研相关/4. 计算机/1. 数据结构/0. 其他/初见/DS - 6.canvas"
+  ]
+}

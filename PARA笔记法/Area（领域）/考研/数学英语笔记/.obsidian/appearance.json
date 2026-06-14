@@ -1,0 +1,16 @@
+{
+  "accentColor": "#7accff",
+  "theme": "obsidian",
+  "translucency": false,
+  "baseFontSize": 20,
+  "textFontFamily": "霞鹜文楷 GB 屏幕阅读版 R,字魂160号-檀宋,Inter",
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "表格优化",
+    "AnuExtendTheme",
+    "custom-admonitions.100296"
+  ],
+  "baseFontSizeAction": true,
+  "nativeMenus": false,
+  "interfaceFontFamily": "Arial,Cascadia Code,Agency FB,Inter,字魂160号-檀宋,Century"
+}

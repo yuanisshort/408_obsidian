@@ -1,0 +1,3 @@
+请在看课程之前，务必进入此网站查看课程最新更新情况
+
+https://www.python-spider.com/challenge/readme
