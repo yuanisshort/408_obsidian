@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "05b44c71d968715f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3695e1dba43a5763",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8156a8da93369f91",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "231b3b2afbe68aa0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c07fd3da148345da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fc763d7732f0ba9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "1223a9905dc6807e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "0ef51f8b6bd5175e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cb8a770b8a488270",
+    "type": "split",
+    "children": [
+      {
+        "id": "395455c5078d47be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "290e094f9fc4ac8f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian---408Note-main/Obsidian---408Note-main/1 数据结构/第3章 栈和队列.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "第3章 栈和队列 的反向链接列表"
+            }
+          },
+          {
+            "id": "48cec0f966652191",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian---408Note-main/Obsidian---408Note-main/1 数据结构/第3章 栈和队列.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "第3章 栈和队列 的出链列表"
+            }
+          },
+          {
+            "id": "6bc2fbdf3cf41794",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "7a7e50c7978eb3df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian---408Note-main/Obsidian---408Note-main/1 数据结构/第3章 栈和队列.md"
+              },
+              "icon": "lucide-list",
+              "title": "第3章 栈和队列 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "8156a8da93369f91",
+  "lastOpenFiles": [
+    "Obsidian---408Note-main/Obsidian---408Note-main/1 数据结构/大题知识点总结.md",
+    "Obsidian---408Note-main/Obsidian---408Note-main/0 408真题/2009年计算机408统考真题.pdf"
+  ]
+}
